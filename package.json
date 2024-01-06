@@ -9,7 +9,7 @@
     "postinstall": "nuxt prepare"
   },
   "devDependencies": {
-    "@nuxtjs/i18n": "^8.0.0",
+    "@nuxtjs/i18n": "npm:@nuxtjs/i18n-edge@8.0.0-28408941.ebfba10",
     "nuxt": "3.9.0"
   }
 }
